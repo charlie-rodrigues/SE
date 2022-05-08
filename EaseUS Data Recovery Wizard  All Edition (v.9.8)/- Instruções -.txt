@@ -1,0 +1,34 @@
+
+============================================================================================================================================
+                                                 - EaseUS Data Recovery Wizard All Editions 9 -
+============================================================================================================================================
+
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+1 - Instale pelo arquivo "Setup.exe"  que se encontra na pasta "Instalação", antes finalizar, desmarque as opções : 
+
+"Executar o EaseUS Data ..." e "Participar do programa de..."
+
+2 - Não incie o programa, se iniciar, feche-o.
+
+
+------------------------
+: ...:: Ativação ::... :
+------------------------
+
+1 - Vá até a pasta "Ativação", abra a pasta do tipo de ativação que deseja "Advanced/Professional/Technician"
+
+2 - Abra a pasta de acordo com seu sistema operacional (32=86 bits ou 64 bits) e copie o arquivo "DRWUI.exe"
+
+3 - Cole o arquivo copiado para "C:\Program Files\EaseUS\EaseUS Data Recovery Wizard" e substitua o arquivo original
+
+3 - Pronto, está instalado e ativado !!
+
+
+
+============================================================================================================================================
+                                                                - By Roonney -
+============================================================================================================================================

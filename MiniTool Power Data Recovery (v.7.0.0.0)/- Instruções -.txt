@@ -1,0 +1,21 @@
+
+============================================================================================================================
+                                             - MiniTool Power Data Recovery 7 -
+============================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1 - Intale o programa pelo arquivo "pdr7.exe" encontra na pasta "Instalação"
+
+2 - Na pasta "Ativação", escolha a versão que deseja e a versão do seu Sistema Operacional, 32 ou 64 bits e copie o arquivo
+"powerdatarecovery.exe" para "C:\Program Files\PowerDataRecovery" e mande substituir o original.
+
+3 - Pronto !! Está Ativado
+
+
+============================================================================================================================
+                                                      - By Roonney -
+============================================================================================================================

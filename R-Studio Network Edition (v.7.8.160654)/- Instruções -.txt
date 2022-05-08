@@ -1,0 +1,28 @@
+
+============================================================================================================================
+                                                  - R-Studio Network Edition -                                                     
+============================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1 - Intale o programa normalmente pelo arquivo "RStudio7.exe" que se encontra na pasta "Instalação"
+
+2 - Ao iniciar o programa , irá aparecer a tela de registro , feche-o e feche o programa.
+
+3 - Vá até a pasta "Ativação" e copie o arquivo "crack.exe" para "C:\Program Files (x86)\R-Studio"
+
+4 - Execute o arquivo "crack.exe" como administrador, assim que abrir, copie o código do campo "Key" e posteriormente clique 
+em "Crack" e  "Exit"
+
+5 - Abra o "R-Studio", preecha o campo "Nome" (com seu nome ou seu nick), preecha o campo "E-mail" (Qualquer E-mail ou fake)
+e insira o código copiado no passo 4
+
+6 - Pronto !! 
+
+
+============================================================================================================================
+                                                      - By Roonney -
+============================================================================================================================
