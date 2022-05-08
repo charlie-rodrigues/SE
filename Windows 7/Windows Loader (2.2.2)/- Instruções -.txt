@@ -1,0 +1,20 @@
+
+===================================================================================================================================
+                                                           - Windows Loader - 
+===================================================================================================================================
+
+>>> Ferramenta ideal para ativar a versão final do Windows 7.
+  
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+1 - Execute como Administrador o arquivo “Windows Loader.exe” em clique em “Install” e posteriormente em "OK" .
+
+2 - Seja paciente, o procedimento pode demorar alguns minitos, ao terminar, irá aparecer a mensagem, clique em "Restart".
+
+3 - Reinicie o computador !! Pronto !! Está ativado!!
+
+=====================================================================================================================================
+                                                                - By Roonney -
+=====================================================================================================================================

@@ -1,0 +1,21 @@
+
+===================================================================================================================================
+                                                                - Chew Wga - 
+===================================================================================================================================
+
+>>> Ferramenta ideal para ativar a versão final do Windows 7.
+  
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+1 - Execute como Administrador (Cllique com o botão direito e posteriormente em "Execute como Administrador" ) o arquivo “CW.eXe” 
+e clique em “Apply” .
+
+2 - Seja paciente, o procedimento pode demorar alguns minitos, ao terminar, irá aparecer a mensagem “Chew-WGA has been installed!” 
+
+3 - Reinicie o computador !! Pronto !! Está ativado!!
+
+=======================================================================================================================================
+                                                                - By Roonney -
+=======================================================================================================================================

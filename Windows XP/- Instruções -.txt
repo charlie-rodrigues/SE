@@ -1,0 +1,24 @@
+
+===================================================================================================================================
+                                                              - Activador XP - 
+===================================================================================================================================
+
+>>> Ferramenta ideal para ativar a versão final do Windows XP.
+  
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+1 - Execute como Administrador o arquivo “1º - Windows XP Keygen.exe”, abrindo o programa, no campo "Product Family", selecione :
+ "Windows XP Pro.VLK" e clique em "Generate" e copie o serial gerado para um bloco de notas ou não feche o programa.
+
+2 - Execute como Administrador o arquivo “2º - KeyFinder.exe”, abrindo o programa, clique no menu "Options" e posteriormente em 
+"change Windows key", copie o serial gerado no passo anterior  e clique em  "Change" e posteriormente em "Aceitar"
+
+3 - Execute como Administrador o arquivo “3º - WGA - Fix.exe”, e clique em "Sim" .
+
+4 - Reinicie o computador !! Pronto !! Está ativado!!
+
+=====================================================================================================================================
+                                                                - By Roonney -
+=====================================================================================================================================

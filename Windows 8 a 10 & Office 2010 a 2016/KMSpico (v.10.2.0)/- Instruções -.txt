@@ -1,0 +1,22 @@
+
+================================================================================================================================
+                                                                - KMSpico -
+================================================================================================================================
+
+Obs: A desvantagem deste ativador é que ele não tem a opção de ativar apenas um produto, ele ativa o windows simultaneamente.
+
+-----------------------------
+: ...:: Procedimentos ::... :
+-----------------------------
+
+1 - Instale o KMSpico pelo arquivo "KMSpico_setup.exe" que se encontra na pasta "Ativação".
+
+2 - Ao terminar a instalação o Windows e o Office ja devem estar ativados.
+
+3 - Caso não estejam ativados vá em "C:\Program Files\KMSpico" e execute o arquivo "KMSELDI.exe" e clique no botão vermelho!
+
+4 - Pronto , está ativado!!
+
+=================================================================================================================================
+                                                               - By Roonney -
+=================================================================================================================================
