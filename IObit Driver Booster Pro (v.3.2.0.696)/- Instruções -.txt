@@ -1,0 +1,29 @@
+
+===========================================================================================================================
+                                                  - IObit Driver Booster Pro -
+===========================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1 - Instale o software pelo arquivo "driver_booster_setup.exe" , que se encontra na pasta "Instalação" .
+
+2 - Copie o arquivo "Register.dll" que se encontra na pasta "Ativação" para a pasta:
+
+ "C:\Program Files (x86)\IObit\Driver Booster" e substitua o original.
+
+3 - Caso ainda solicite ativação, utilize um dos seriais abaixo:
+
+Serial: 38A24-42DC3-6BF6B-70CB3
+
+Serial: B92BF-10BA6-BA922-753B2   
+   
+Serial: E9C13-4D976-A7586-E67B2 
+
+4 - Pronto !! Está ativado 
+
+=============================================================================================================================
+                                                          - By Roonney -
+=============================================================================================================================
