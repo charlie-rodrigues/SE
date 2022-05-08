@@ -1,0 +1,23 @@
+
+=============================================================================================================================
+                                                      - Teamviewer Corporate 11 -
+=============================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1 - Instale normalmente pelo arquivo "TeamViewer_Setup_pt.exe" que se encontra na pasta "Instalação".
+
+2 - Feche o aplicativo, precione "Ctrl+Alt+Del" vá ao gerenciador de tarefas e encerre o processo "Teamviewer 11 (32bits)"
+Obs: pode ser necessário fecha-lo até 4 vezes
+
+3 - Vá até a pasta "Ativação" e copie todos os arquivos para "C:\Program Files (x86)\TeamViewer" e substitua os originais
+
+4 - Pronto !! 
+
+
+=============================================================================================================================
+                                                              - By Roonney -
+=============================================================================================================================

@@ -1,0 +1,24 @@
+
+=============================================================================================================================
+                                                         - Real Hide IP -
+=============================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1 - Instale normalmente pelo arquivo "RealHideIP-4.5.2.2.Setup" que se encontra na pasta "Instalação"
+
+2 - Vá até a pasta "Ativação" e copie o arquivo "auto-easy-mask-real-platinum-superhideip.x.x-patch.exe" para a pasta de 
+instalação do programa
+
+3 - Execute o arquivo copiado e clique em "Patch", irá aparecer uma mensagem dizendo que não conseguiu encontrar o arquivo,
+e pedindo para selecionar o arquivo, selecione o "RealHideIP.exe" e mande abrir e poesteriormente feche-o.
+
+4 - Pronto !! 
+
+
+=============================================================================================================================
+                                                              - By Roonney -
+=============================================================================================================================
