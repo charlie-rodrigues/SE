@@ -1,0 +1,22 @@
+
+==========================================================================================================
+                                           - CCleaner All Editions -
+==========================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+1 . Desativar sua conexão de internet.
+
+2 . Instale pelo arquivo "ccsetup513pro.exe" que se encontra na pasta instalação.
+
+3 . Vá até a pasta "Ativação", escolha para qual versão gostaria de ativar e copie os arquivos da versão 
+selecionada para "C:\Program Files\CCleaner" e mande substituir o original
+
+4 . Pronto !! está Ativado
+
+
+==========================================================================================================
+                                               - By Roonney -
+==========================================================================================================

@@ -1,0 +1,22 @@
+
+============================================================================================================================
+                                                - Revo Uninstaller Pro -
+============================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1 - Intale o programa pelo arquivo "RevoUninProSetup.exe" que se encontra na pasta "Instalação".
+
+2 - Na pasta "Ativação", copie o arquivo "RUP_3.1.0_Registrator.exe" para "C:\Program Files\VS Revo Group\Revo Uninstaller Pro".
+
+3 - Execute o ativador, coloque o nome que desejar e clique em "Register", posteriormente em "OK" e feche-o.
+
+4 - Pronto !! Está Ativado.
+
+
+============================================================================================================================
+                                                      - By Roonney -
+============================================================================================================================

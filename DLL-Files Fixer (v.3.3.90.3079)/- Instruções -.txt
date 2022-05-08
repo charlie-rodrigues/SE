@@ -1,0 +1,43 @@
+
+============================================================================================================================
+                                                       - DLL-FiLes Fixer -                                        
+============================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+
+1. Instale o DLL Fixer pelo arquivo "dffsetup" que se encontra na pasta "Instalação". 
+
+2. Caso inicie o programa, feche-o.
+
+3. Vá até a pasta "Ativação" e execute como administrador o arquivo "disable_activation.cmd"
+
+4. Execute o "Dll-Files Fixer Keygen" para gerar o serial e cipie-o.
+
+5. Clique com o botão direito sobre o arquivo "Activationx32.reg" ou "Activationx64.reg", de acordo com o seu sistema operacional
+   e selecione "Editar".
+
+6. Agora no lugar de onde está escrito "Put Your Serial Here", cole o serial!
+
+Ex:
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CURRENT_USER\Software\dll-files.com\Fixer\Version 1.0]
+"Key"="0000QF-XP9WAK-EAB2N4-QYPE3X-0VRWNV"
+ 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\dll-files.com\Fixer\Version 1.0]
+"Key"="0000QF-XP9WAK-EAB2N4-QYPE3X-0VRWNV" 
+
+7. Salve o arquivo
+
+8. Agora de dois cliques sobre o arquivo salvo.
+
+9. Pronto !! Está Ativado !!
+
+
+============================================================================================================================
+                                                          - By Roonney -
+============================================================================================================================
+

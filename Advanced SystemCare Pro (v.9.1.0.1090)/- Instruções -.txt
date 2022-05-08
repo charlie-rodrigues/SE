@@ -1,0 +1,30 @@
+
+======================================================================================================================
+                                                - Advanced SystemCare Pro 9 -
+======================================================================================================================
+
+--------------------------
+: ...:: Instalação ::... :
+--------------------------
+
+1. Instale pelo arquivo "advanced-systemcare-setup.exe" que se encontra na pasta "Instalação".
+
+
+-----------------------
+: ...:: Ativação :... :
+-----------------------
+
+1. Vá até a pasta "Ativação".
+
+2. Clique com o botão direito e execute como administrador o arquivo "Add Host.cmd". 
+
+3. Abra o arquivo "Keys.txt", posteriormente, abra o programa normalmente e insira um dos seriais.
+
+4. Irá aparecer uma mensagem dizendo que não foi possivel conectar ao servidor, apenas aperte "OK".
+
+5. Pronto, está Ativado !!
+
+
+======================================================================================================================
+                                                        - By Roonney -
+======================================================================================================================
